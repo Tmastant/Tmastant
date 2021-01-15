@@ -1,4 +1,6 @@
-### Hi there 👋
+### Introduction
+I'm <b>Thomas Mastantuono</b> and I'm a 3rd year student at the University of Waterloo studying Engineering. I have a passion for coding, specifically AI
+
 
 <!--
 **Tmastant/Tmastant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
