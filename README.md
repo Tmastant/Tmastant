@@ -1,5 +1,5 @@
 ### 👋 Introduction
-I'm <b>Thomas Mastantuono</b> and I'm a 3rd year student at the University of Waterloo studying Engineering. I have a passion for coding, specifically AI. I also love to develop games and have posted some here on my Github. I always have at least one game in development at all times so feel free to ask me about it!
+I'm <b>Thomas Mastantuono</b> and I'm a 4th year student at the University of Waterloo studying Engineering. I have a passion for coding, specifically AI. I also love to develop games and have posted some here on my Github. I always have at least one game in development at all times so feel free to ask me about it!
 
 ### 📫 Contact
 Feel free to add and message me on [linkedin](https://www.linkedin.com/in/thomas-mastantuono/).
