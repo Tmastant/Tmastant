@@ -5,6 +5,7 @@ I'm <b>Thomas Mastantuono</b> and I'm a 4th year student at the University of Wa
 Feel free to add and message me on [linkedin](https://www.linkedin.com/in/thomas-mastantuono/).
 
 ### ⚡ Recent Projects:
+  * [Frigid Blackwaters](http://frigidblackwaters.com/)
   * [University of Waterloo's Industry 4.0 Team Website](https://github.com/industry4team/industry4team.github.io)
   * [My Personal Website](https://tmastant.github.io/)
 
