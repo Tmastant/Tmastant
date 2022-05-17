@@ -6,8 +6,6 @@ Feel free to add and message me on [linkedin](https://www.linkedin.com/in/thomas
 
 ### ⚡ Recent Projects:
   * [Frigid Blackwaters](http://frigidblackwaters.com/)
-  * [University of Waterloo's Industry 4.0 Team Website](https://github.com/industry4team/industry4team.github.io)
-  * [My Personal Website](https://tmastant.github.io/)
 
 
 <!--
